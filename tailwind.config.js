@@ -6,6 +6,7 @@ module.exports = {
     "./pages/**/*.{js,jsx}",
     "./public/**/*.html",
     "./components/**/*.{js,jsx}",
+    "./layout/*.{js,jsx}",
   ],
   plugins: [],
   theme: {},
