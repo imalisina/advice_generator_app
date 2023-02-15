@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.overlay {
+    filter: brightness(0.5);
+}
